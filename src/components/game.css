@@ -1,0 +1,18 @@
+.gameDiv{
+    display: block;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 2px solid black;
+    margin: 5px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+}
+.opretionBtn{
+    display: flex;
+    justify-content: center;
+}
+.allGamesDiv{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
